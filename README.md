@@ -1,3 +1,6 @@
+#note 2025/04/22
+This repository is not complete yet. I am going to upload all relating files soon.
+
 # The-Emergence-of-Rhymed-Meters-in-the-Indo-Aryan-Prosody
 This repository encompasses codes and data pertaining to the survey in the paper titled 'The Emergence of Rhymed Meters in Indo-Aryan Prosody'.
 The primary focuses of investigation are the differences in the diversity of word endings and in the easiness of the end rhyme between Old Indo-Aryan and Middle Indo-Aryan. 
