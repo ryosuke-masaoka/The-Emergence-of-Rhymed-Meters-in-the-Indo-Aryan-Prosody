@@ -1,0 +1,6 @@
+types count
+852
+token count
+7754
+RhMP of DV
+0.011631262029618667

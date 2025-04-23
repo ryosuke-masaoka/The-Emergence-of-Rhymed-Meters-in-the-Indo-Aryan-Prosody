@@ -1,0 +1,6 @@
+types count
+224
+token count
+3487
+RhMP of GV
+0.04317079563578728
